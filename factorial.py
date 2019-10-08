@@ -10,3 +10,5 @@ print " %d! = %d " %(n,fact(n))
 #this code works appropriately only for smaller values of N, more specifically
 #it works only upto 973, afterforth maximum recursion depth for function fact 
 #exceedes and it ends up being collapsed.
+#your code is working fine.
+

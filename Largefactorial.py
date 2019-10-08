@@ -1,4 +1,5 @@
 #Input the number whose factorial is to be calculated
+#this program is for very large number
 def range_prod(lo,hi):
     if lo+1 < hi:
         mid = (hi+lo)//2

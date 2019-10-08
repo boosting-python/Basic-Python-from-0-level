@@ -1,3 +1,4 @@
+#this formuala can be used to calculate the area of any triangle(need not to be specific eg. right angle triangle etc.)
 x, y, z = map(float,input().split())  #Enter sides of triangle(x y z) in a row
 
 s = (x + y + z) / 2   #s = semi perimeter

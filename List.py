@@ -77,5 +77,9 @@ int Solution::lPalin(ListNode* A) {
     return yes;
     
 }
-
+XXXXXXXXXXXXXXXXXX
+YYYYYYYYYYYYYYY
+ZZZZZZZZZZZ
+QQQQQQQQQQ
+WWWWWWWWW
 '''
